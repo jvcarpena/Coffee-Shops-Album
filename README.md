@@ -1,4 +1,4 @@
-# Coffee Shops Album
+# Calamba Coffee Shops Album
 
 This is a simple Flask web application for managing a database of cafes, built with SQLAlchemy, Flask-Bootstrap, and a SQLite database. It displays a list of cafes and their details sorted by name.
 
